@@ -34,7 +34,7 @@ _Доступ до безмежних DeFi ринків без будь-яких
 <a href="https://iili.io/mNneZN.md.png"><img src="https://iili.io/mNneZN.md.png" style="width: 300px; max-width: 100%; height: auto" />
 
 Оригінально видано Injective Labs Inc. under: <br />
-Ліцензія License <br />
+Apache License <br />
 Версія 2.0, Січень 2004 <br />
 http://www.apache.org/licenses/
 
